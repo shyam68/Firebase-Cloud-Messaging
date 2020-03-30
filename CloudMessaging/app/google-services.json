@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828989248331",
+    "firebase_url": "https://learn-cloud-messaging.firebaseio.com",
+    "project_id": "learn-cloud-messaging",
+    "storage_bucket": "learn-cloud-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828989248331:android:59a46bff815b1e2c234ece",
+        "android_client_info": {
+          "package_name": "com.example.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828989248331-qhm2710flg4jhs8he1h2so3ur3m54s00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6vWF6WRKTPSYjJtAdlr5PbNZlglzFOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828989248331-qhm2710flg4jhs8he1h2so3ur3m54s00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
